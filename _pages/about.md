@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes multi-modal models, AI4Science (healthcare in neurosience and computational cognitive science), and computer vision. I am designing deep learning model to predict likelihood of getting human degenerative disease based on risk factors, supervised by Professor Tianlong Chen <a href='https://tianlong-chen.github.io/'>. 
+My research interest includes multi-modal models, AI4Science (healthcare in neurosience and computational cognitive science), and computer vision. I am designing deep learning model to predict likelihood of getting human degenerative disease based on risk factors, supervised by  <a href='https://tianlong-chen.github.io/'>Professor Tianlong Chen. 
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Growing AI as a Child published a paper to AAAI Workshop
